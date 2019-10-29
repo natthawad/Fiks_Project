@@ -1,12 +1,12 @@
-import { TestBed } from '@angular/core/testing';
+// import { TestBed } from '@angular/core/testing';
 
-import { CusrequstsService } from './cusrequst.service';
+// import { CusrequstsService } from './cusrequst.service';
 
-describe('CusrequstsService', () => {
-  beforeEach(() => TestBed.configureTestingModule({}));
+// describe('CusrequstsService', () => {
+//   beforeEach(() => TestBed.configureTestingModule({}));
 
-  it('should be created', () => {
-    const service: CusrequstsService = TestBed.get(CusrequstsService);
-    expect(service).toBeTruthy();
-  });
-});
+//   it('should be created', () => {
+//     const service: CusrequstsService = TestBed.get(CusrequstsService);
+//     expect(service).toBeTruthy();
+//   });
+// });

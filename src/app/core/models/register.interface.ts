@@ -1,9 +1,9 @@
-import { AuthInterface } from './auth.interface';
+// import { AuthInterface } from './auth.interface';
 
-export interface RegisterInterface extends AuthInterface {
-    name?: string;
-    fullName?: string;
-    phone?: string;
-    address?: string;
-    imageProfile?: string;
-}
+// export interface RegisterInterface extends AuthInterface {
+//     name?: string;
+//     fullName?: string;
+//     phone?: string;
+//     address?: string;
+//     imageProfile?: string;
+// }
